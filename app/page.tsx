@@ -38,13 +38,13 @@ export default function Home() {
           </a>
           <a
             className={styles.primary}
-            href="mailto:majulah.green@gmail.com"
+            href="mailto:hello@majulahgreen.sg"
             target="_blank"
             rel="noopener noreferrer"
           >
           <EmailRoundedIcon
               />
-            majulah.green@gmail.com
+            hello@majulahgreen.sg
           </a>
         </div>
       </main>
