@@ -79,11 +79,12 @@
 
 a.primary {
   background: #0a3b3d;
-  color: var(--background);
+  color: var(--brand-white);
   gap: 8px;
 }
 
 a.secondary {
+  color: var(--brand-forest-green);
   gap: 8px;
 }
 

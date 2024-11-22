@@ -31,7 +31,7 @@ export default function Home() {
           >
             <FontAwesomeIcon
               icon={faWhatsapp}
-              color="black"
+              color="#0a3b3d"
               width={25}
               height={25}/>
             8171 7119
